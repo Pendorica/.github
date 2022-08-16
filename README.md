@@ -1,5 +1,5 @@
 # Project Pendorica
-A tool to manage your Tabletop role-playing campaigns.
+A tool for managing your tabletop roleplaying campaigns.
 
 ## ToDo
  - [ ] Auth
